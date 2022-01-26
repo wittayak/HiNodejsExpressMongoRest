@@ -1,0 +1,25 @@
+{
+  "name": "hinodemongorest",
+  "version": "1.0.0",
+  "description": "Demo REST api with Nodejs, Express and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittayak/HiNodeMongoRest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wittayak/HiNodeMongoRest/issues"
+  },
+  "homepage": "https://github.com/wittayak/HiNodeMongoRest#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "mongoose": "^6.1.8"
+  }
+}

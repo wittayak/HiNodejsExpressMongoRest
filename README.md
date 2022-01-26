@@ -1,2 +1,2 @@
 # HiNodeMongoRest
-Demo REST api with Nodejs, Express and MongoDB.
+Demo project: create REST api CRUD operations with Nodejs and Express connect to MongoDB database.
